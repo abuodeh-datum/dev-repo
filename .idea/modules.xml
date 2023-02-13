@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-api/common-api.iml" filepath="$PROJECT_DIR$/common-api/common-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dev-repo.iml" filepath="$PROJECT_DIR$/dev-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/request/request.iml" filepath="$PROJECT_DIR$/request/request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdapis/sdapis.iml" filepath="$PROJECT_DIR$/sdapis/sdapis.iml" />
     </modules>
   </component>
 </project>

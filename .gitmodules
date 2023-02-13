@@ -1,0 +1,9 @@
+[submodule "common-api"]
+	path = common-api
+	url = https://github.com/abuodeh-datum/common-api.git
+[submodule "request"]
+	path = request
+	url = https://github.com/abuodeh-datum/request.git
+[submodule "sdapis"]
+	path = sdapis
+	url = https://github.com/abuodeh-datum/sdapis.git
